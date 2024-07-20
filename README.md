@@ -8,7 +8,11 @@ The landing page includes a variety of features to enhance the user experience:
 
 
 Responsive Design: Ensures optimal viewing on desktops, tablets, and mobile devices.
+
 Product Carousel: Highlights featured products with interactive elements.
+
 Promotional Banners: Showcases special offers and discounts.
+
 User Reviews: Displays customer feedback to build trust and credibility.
+
 Contact Form: Allows users to get in touch with the store for inquiries or support.
