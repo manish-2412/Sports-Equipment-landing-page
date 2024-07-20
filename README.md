@@ -17,11 +17,16 @@ User Reviews: Displays customer feedback to build trust and credibility.
 
 Contact Form: Allows users to get in touch with the store for inquiries or support.
 
+
+
 Technologies Used
 
 HTML5: Provides the structure and semantic elements of the page. 
+
 CSS3: Implements styling, animations, and responsive design.
+
 JavaScript: Adds interactivity and dynamic content loading.
+
 
 
 Getting Started
