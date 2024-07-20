@@ -19,6 +19,8 @@ Contact Form: Allows users to get in touch with the store for inquiries or suppo
 
 
 
+
+
 Technologies Used
 
 HTML5: Provides the structure and semantic elements of the page. 
